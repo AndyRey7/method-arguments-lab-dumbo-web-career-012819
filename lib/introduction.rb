@@ -1,2 +1,4 @@
-def intro(name)
-  puts "Hi,"
+def introduction(name)
+  puts "Hi, my name is #{name}"
+end
+
